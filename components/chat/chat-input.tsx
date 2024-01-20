@@ -91,8 +91,7 @@ export const ChatInput = ({
               </FormControl>
             </FormItem>
           )}
-        >
-        </FormField>
+        />
       </form>
     </Form>
   )
